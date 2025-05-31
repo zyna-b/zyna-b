@@ -6,11 +6,13 @@ Hi, I’m Zainab Hamid — a passionate and innovative full-stack developer and 
 
 ---
 
-## 🔗 Let’s Connect!
+## 🔗 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-hamid-187a18321/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-zainabhamid.tech-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zainabhamid.tech)
-[![Email](https://img.shields.io/badge/Email-zainabhamid2468%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainabhamid2468@gmail.com)
+| Website   | Link |
+|-----------|------|
+| 🌐 Portfolio | [zainabhamid.tech](https://zainabhamid.tech) |
+| 💼 LinkedIn | [Zainab Hamid](https://www.linkedin.com/in/zainab-hamid-187a18321/) |
+| 📧 Email    | [zainabhamid2468@gmail.com](mailto:zainabhamid2468@gmail.com) |
 
 ---
 
@@ -84,3 +86,5 @@ Grade: A | Activities: Badminton
 - Kotlin
 
 ---
+
+> ⚡️ “I don’t just write code. I build smart, elegant, and impactful digital experiences.”

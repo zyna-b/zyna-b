@@ -6,16 +6,6 @@ Hi, I’m Zainab Hamid — a passionate and innovative full-stack developer and 
 
 ---
 
-## 🔗 Let’s Connect
-
-| Website   | Link |
-|-----------|------|
-| 🌐 Portfolio | [zainabhamid.tech](https://zainabhamid.tech) |
-| 💼 LinkedIn | [Zainab Hamid](https://www.linkedin.com/in/zainab-hamid-187a18321/) |
-| 📧 Email    | [zainabhamid2468@gmail.com](mailto:zainabhamid2468@gmail.com) |
-
----
-
 ## 🧠 Experience
 
 **👩‍💻 Chief Developer** — Technologistics.pk  
@@ -84,6 +74,14 @@ Grade: A | Activities: Badminton
 ### Mobile Development
 - Swift
 - Kotlin
+
+---
+
+## 🔗 Let’s Connect
+
+🌐 **Portfolio:** [zainabhamid.tech](https://zainabhamid.tech)  
+💼 **LinkedIn:** [Zainab Hamid](https://www.linkedin.com/in/zainab-hamid-187a18321/)  
+📧 **Email:** [zainabhamid2468@gmail.com](mailto:zainabhamid2468@gmail.com)
 
 ---
 

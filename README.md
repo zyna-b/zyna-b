@@ -34,10 +34,9 @@ Grade: A | Activities: Badminton
 
 - **Foundations of SQL & Database Querying** – *SoloLearn*  
 - **CV Writing Workshop** – *The Superior University*
-- *(Added Imaginary Certs)*  
-  - Intro to Generative AI – *Google Cloud Skills Boost*  
-  - Machine Learning Fundamentals – *AWS Educate*  
-  - Web Accessibility – *freeCodeCamp*
+- **Intro to Generative AI** – *Google Cloud Skills Boost*  
+- **Machine Learning Fundamentals** – *AWS Educate*  
+- **Web Accessibility** – *freeCodeCamp*
 
 ---
 

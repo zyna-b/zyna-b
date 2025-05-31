@@ -79,8 +79,9 @@ Grade: A | Activities: Badminton
 
 ## 🔗 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-hamid-187a18321/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-zainabhamid.tech-black?style=flat-square)](https://zainabhamid.tech)
-[![Email](https://img.shields.io/badge/Email-zainabhamid2468%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zainabhamid2468@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zainabhamid.tech-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zainabhamid.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-hamid-187a18321/)
+[![Email](https://img.shields.io/badge/Email-zainabhamid2468%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainabhamid2468@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zainabhamid.tech-000000?style=flat-square&logo=vercel&logoColor=white)](https://zainabhamid.tech)
 
 ---

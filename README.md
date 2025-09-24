@@ -1,6 +1,6 @@
 # 👩‍💻 Zainab Hamid
 
-**Developer | AI Engineer | Mobile & Web App Creator**
+** AI Engineer | Web App Developer**
 
 Hi, I’m Zainab Hamid — a passionate and innovative full-stack developer and AI engineer with a knack for creating responsive, intuitive, and cutting-edge solutions. From building sleek  web apps to experimenting with machine learning and Deep Learning models, I aim to deliver exceptional digital experiences.
 

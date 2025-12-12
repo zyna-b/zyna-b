@@ -12,10 +12,9 @@ I am the **Founder of Ctrl. Alt. Delta.**, a software startup specializing in AI
 
 I am a **Full Stack AI Engineer** who merges traditional web robustness (PHP/Laravel, MERN) with cutting-edge Deep Learning. I don't just train models; I deploy them into scalable, revenue-generating products.
 
-* 🔭 **Currently Building:** AI-driven B2B marketplaces and automated agents.
-* 🌱 **Deep Dive:** Advanced Computer Vision & Enterprise PHP Architectures.
-* ⚡ **Philosophy:** Code must serve the business.
-
+* 🔭 **Currently Building:** High-ROI MVPs & Autonomous AI Agents for non-tech founders.
+* 🌱 **Deep Dive:** Agentic Workflows (LangChain/CrewAI) & Scalable RAG Systems.
+* ⚡ **Philosophy:** I don't just write code; I ship MVPs that generate revenue.
 ---
 
 ## 🚀 Experience

@@ -87,8 +87,10 @@ A medical-grade CNN model achieving **95.7% accuracy** in diagnosing parasitized
 
 ## 📈 GitHub Stats
 
-![Zainab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyna-b&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyna-b&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zyna-b&show_icons=true&theme=radical&count_private=true" alt="Zainab's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyna-b&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
@@ -96,6 +98,6 @@ A medical-grade CNN model achieving **95.7% accuracy** in diagnosing parasitized
 
 Ready to build your MVP or integrate AI into your workflow?
 
-🌐 **Portfolio:** [zainabhamid.tech](https://zainabhamid.tech)
-💼 **LinkedIn:** [Zainab Hamid](https://www.linkedin.com/in/zainab-hamid-187a18321/)
-📧 **Email:** [zainabhamid2468@gmail.com](mailto:zainabhamid2468@gmail.com)
+* 🌐 **Portfolio:** [zainabhamid.tech](https://zainabhamid.tech)
+* 💼 **LinkedIn:** [Zainab Hamid](https://www.linkedin.com/in/zainab-hamid-187a18321/)
+* 📧 **Email:** [zainabhamid2468@gmail.com](mailto:zainabhamid2468@gmail.com)

@@ -98,6 +98,6 @@ A medical-grade CNN model achieving **95.7% accuracy** in diagnosing parasitized
 
 Ready to build your MVP or integrate AI into your workflow?
 
-* 🌐 **Portfolio:** [zainabhamid.tech](https://zainabhamid.tech)
+* 🏢 **Company Page:** [Ctrl. Alt. Delta.](https://www.linkedin.com/company/ctrl-alt-delta/)
 * 💼 **LinkedIn:** [Zainab Hamid](https://www.linkedin.com/in/zainab-hamid-187a18321/)
 * 📧 **Email:** [zainabhamid2468@gmail.com](mailto:zainabhamid2468@gmail.com)

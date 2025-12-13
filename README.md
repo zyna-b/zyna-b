@@ -30,7 +30,7 @@ Leading a tech startup focused on partnering with non-technical founders to buil
 *2025 – Dec 2025*
 Worked on advanced Computer Vision pipelines and model optimization for real-world deployment.
 
-**👩‍💻 Chief Developer** — [Ctrl. Alt. Delta.](https://www.linkedin.com/company/codantrix-labs/)
+**👩‍💻 Chief Developer** — [Codantrix Labs](https://www.linkedin.com/company/codantrix-labs/)
 *Nov 2024 – 2025*
 Led cross-functional teams in developing high-performance web applications, optimizing site quality and user experience.
 

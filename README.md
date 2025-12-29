@@ -37,6 +37,20 @@ As a **Full Stack AI Engineer**, I merge traditional web robustness (PHP/Laravel
 
 ---
 
+## 💻 Competitive Programming & Problem Solving
+
+<div align="center">
+
+### 🏆 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Zainab_Hamid?theme=dark&font=Sora&ext=heatmap)](https://leetcode.com/u/Zainab_Hamid/)
+
+**Sharpening algorithmic thinking and problem-solving skills daily!** 🚀
+
+</div>
+
+---
+
 ## 🚀 Professional Journey
 
 <div align="center">
